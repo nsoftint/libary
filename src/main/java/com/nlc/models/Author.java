@@ -1,4 +1,4 @@
-package com.oktay.models;
+package com.nlc.models;
 
 import javax.persistence.Entity;
 import javax.persistence.FetchType;
@@ -7,8 +7,6 @@ import javax.persistence.Id;
 import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.TableGenerator;
-
-import com.oktay.models.Book;
 
 /**
  * @author oktay
